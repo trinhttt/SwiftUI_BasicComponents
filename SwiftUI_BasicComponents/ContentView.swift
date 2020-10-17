@@ -8,23 +8,16 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var currentPosition: CGSize = .zero
-    @State var endPosition: CGSize = .zero
-    
+    @State var isPresent = false
+
     var body: some View {
-        Image("image1")
-            .offset(x: currentPosition.width, y: currentPosition.height)
-            .gesture(DragGesture()
-                        .onChanged({ (value) in
-                            print("change")
-                            currentPosition = CGSize(width: endPosition.width + value.translation.width, height: endPosition.height + value.translation.height)
-                        })
-                        .onEnded({ (value) in
-                            print("end")
-                            endPosition = currentPosition
-                        })
-            )
-        
+        Button(action: {
+            isPresent.toggle()
+        }, label: {
+            Text("Button")
+        }).sheet(isPresented: $isPresent, content: { // same same popover
+            Text("view 2")
+        })
     }
 }
 

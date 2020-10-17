@@ -27,6 +27,20 @@
 		0ED0B357253AAEF100915102 /* _StaticList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED0B356253AAEF100915102 /* _StaticList.swift */; };
 		0ED0B35B253AB03E00915102 /* _DynamicList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED0B35A253AB03E00915102 /* _DynamicList.swift */; };
 		0ED0B35F253AB35400915102 /* _GroupedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED0B35E253AB35400915102 /* _GroupedList.swift */; };
+		0EF2EBBD253AD09D001811D3 /* _Picker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBBC253AD09D001811D3 /* _Picker.swift */; };
+		0EF2EBC0253AD28B001811D3 /* _DatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBBF253AD28B001811D3 /* _DatePicker.swift */; };
+		0EF2EBC3253AD608001811D3 /* _SegmentControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBC2253AD608001811D3 /* _SegmentControl.swift */; };
+		0EF2EBC7253AD9F6001811D3 /* _Stepper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBC6253AD9F6001811D3 /* _Stepper.swift */; };
+		0EF2EBCA253ADD38001811D3 /* _ContextMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBC9253ADD38001811D3 /* _ContextMenu.swift */; };
+		0EF2EBCE253AE4C7001811D3 /* _Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBCD253AE4C7001811D3 /* _Alert.swift */; };
+		0EF2EBD1253AE85E001811D3 /* _ActionSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBD0253AE85E001811D3 /* _ActionSheet.swift */; };
+		0EF2EBD4253AF0F0001811D3 /* _Popover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBD3253AF0F0001811D3 /* _Popover.swift */; };
+		0EF2EBD8253AF24B001811D3 /* _NaviView+NavBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBD7253AF24B001811D3 /* _NaviView+NavBarItem.swift */; };
+		0EF2EBDD253AF4E9001811D3 /* _TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBDC253AF4E9001811D3 /* _TabView.swift */; };
+		0EF2EBE1253AF656001811D3 /* _Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBE0253AF656001811D3 /* _Group.swift */; };
+		0EF2EBE4253AFA59001811D3 /* _StatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBE3253AFA59001811D3 /* _StatusBar.swift */; };
+		0EF2EBE7253AFA92001811D3 /* _NavigationLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBE6253AFA92001811D3 /* _NavigationLink.swift */; };
+		0EF2EBEB253B0456001811D3 /* _NavigationLinkOfListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF2EBEA253B0456001811D3 /* _NavigationLinkOfListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +66,20 @@
 		0ED0B356253AAEF100915102 /* _StaticList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _StaticList.swift; sourceTree = "<group>"; };
 		0ED0B35A253AB03E00915102 /* _DynamicList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _DynamicList.swift; sourceTree = "<group>"; };
 		0ED0B35E253AB35400915102 /* _GroupedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _GroupedList.swift; sourceTree = "<group>"; };
+		0EF2EBBC253AD09D001811D3 /* _Picker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _Picker.swift; sourceTree = "<group>"; };
+		0EF2EBBF253AD28B001811D3 /* _DatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _DatePicker.swift; sourceTree = "<group>"; };
+		0EF2EBC2253AD608001811D3 /* _SegmentControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _SegmentControl.swift; sourceTree = "<group>"; };
+		0EF2EBC6253AD9F6001811D3 /* _Stepper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _Stepper.swift; sourceTree = "<group>"; };
+		0EF2EBC9253ADD38001811D3 /* _ContextMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _ContextMenu.swift; sourceTree = "<group>"; };
+		0EF2EBCD253AE4C7001811D3 /* _Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _Alert.swift; sourceTree = "<group>"; };
+		0EF2EBD0253AE85E001811D3 /* _ActionSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _ActionSheet.swift; sourceTree = "<group>"; };
+		0EF2EBD3253AF0F0001811D3 /* _Popover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _Popover.swift; sourceTree = "<group>"; };
+		0EF2EBD7253AF24B001811D3 /* _NaviView+NavBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_NaviView+NavBarItem.swift"; sourceTree = "<group>"; };
+		0EF2EBDC253AF4E9001811D3 /* _TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _TabView.swift; sourceTree = "<group>"; };
+		0EF2EBE0253AF656001811D3 /* _Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _Group.swift; sourceTree = "<group>"; };
+		0EF2EBE3253AFA59001811D3 /* _StatusBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _StatusBar.swift; sourceTree = "<group>"; };
+		0EF2EBE6253AFA92001811D3 /* _NavigationLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _NavigationLink.swift; sourceTree = "<group>"; };
+		0EF2EBEA253B0456001811D3 /* _NavigationLinkOfListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _NavigationLinkOfListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +129,20 @@
 				0ED0B356253AAEF100915102 /* _StaticList.swift */,
 				0ED0B35A253AB03E00915102 /* _DynamicList.swift */,
 				0ED0B35E253AB35400915102 /* _GroupedList.swift */,
+				0EF2EBBC253AD09D001811D3 /* _Picker.swift */,
+				0EF2EBBF253AD28B001811D3 /* _DatePicker.swift */,
+				0EF2EBC2253AD608001811D3 /* _SegmentControl.swift */,
+				0EF2EBC6253AD9F6001811D3 /* _Stepper.swift */,
+				0EF2EBC9253ADD38001811D3 /* _ContextMenu.swift */,
+				0EF2EBCD253AE4C7001811D3 /* _Alert.swift */,
+				0EF2EBD0253AE85E001811D3 /* _ActionSheet.swift */,
+				0EF2EBD3253AF0F0001811D3 /* _Popover.swift */,
+				0EF2EBD7253AF24B001811D3 /* _NaviView+NavBarItem.swift */,
+				0EF2EBDC253AF4E9001811D3 /* _TabView.swift */,
+				0EF2EBE0253AF656001811D3 /* _Group.swift */,
+				0EF2EBE3253AFA59001811D3 /* _StatusBar.swift */,
+				0EF2EBE6253AFA92001811D3 /* _NavigationLink.swift */,
+				0EF2EBEA253B0456001811D3 /* _NavigationLinkOfListView.swift */,
 				0EA44FA6253A605600ACB5A0 /* Assets.xcassets */,
 				0EA44FAB253A605600ACB5A0 /* LaunchScreen.storyboard */,
 				0EA44FAE253A605600ACB5A0 /* Info.plist */,
@@ -188,22 +230,36 @@
 			buildActionMask = 2147483647;
 			files = (
 				0ED0B35F253AB35400915102 /* _GroupedList.swift in Sources */,
+				0EF2EBE7253AFA92001811D3 /* _NavigationLink.swift in Sources */,
 				0EA44FA1253A605400ACB5A0 /* AppDelegate.swift in Sources */,
 				0EA44FC4253A822200ACB5A0 /* _Toggle.swift in Sources */,
+				0EF2EBE1253AF656001811D3 /* _Group.swift in Sources */,
 				0EA44FC1253A7F4C00ACB5A0 /* _Button.swift in Sources */,
 				0ED0B357253AAEF100915102 /* _StaticList.swift in Sources */,
 				0ED0B354253AA18200915102 /* _DragGesture.swift in Sources */,
 				0EA44FD8253A968400ACB5A0 /* _TapGesture.swift in Sources */,
+				0EF2EBD4253AF0F0001811D3 /* _Popover.swift in Sources */,
+				0EF2EBEB253B0456001811D3 /* _NavigationLinkOfListView.swift in Sources */,
+				0EF2EBC3253AD608001811D3 /* _SegmentControl.swift in Sources */,
 				0EA44FA3253A605400ACB5A0 /* SceneDelegate.swift in Sources */,
+				0EF2EBD8253AF24B001811D3 /* _NaviView+NavBarItem.swift in Sources */,
 				0EA44FBA253A666100ACB5A0 /* _Image.swift in Sources */,
 				0EA44FCD253A8E4F00ACB5A0 /* _Stack.swift in Sources */,
 				0EA44FCA253A899500ACB5A0 /* _TextField.swift in Sources */,
+				0EF2EBCE253AE4C7001811D3 /* _Alert.swift in Sources */,
 				0EA44FB6253A660A00ACB5A0 /* _Text.swift in Sources */,
+				0EF2EBC7253AD9F6001811D3 /* _Stepper.swift in Sources */,
+				0EF2EBCA253ADD38001811D3 /* _ContextMenu.swift in Sources */,
 				0EA44FC7253A87A500ACB5A0 /* _Slider.swift in Sources */,
 				0EA44FDB253A999600ACB5A0 /* _LongpressGesture.swift in Sources */,
+				0EF2EBDD253AF4E9001811D3 /* _TabView.swift in Sources */,
 				0ED0B35B253AB03E00915102 /* _DynamicList.swift in Sources */,
+				0EF2EBD1253AE85E001811D3 /* _ActionSheet.swift in Sources */,
+				0EF2EBE4253AFA59001811D3 /* _StatusBar.swift in Sources */,
+				0EF2EBBD253AD09D001811D3 /* _Picker.swift in Sources */,
 				0EA44FA5253A605400ACB5A0 /* ContentView.swift in Sources */,
 				0EA44FBE253A7D5000ACB5A0 /* _State.swift in Sources */,
+				0EF2EBC0253AD28B001811D3 /* _DatePicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
